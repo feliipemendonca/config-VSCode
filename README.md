@@ -1,4 +1,5 @@
 Extençoes usadas: 
+* Better Align
 * Bootstrap 3 Snippets
 * Bootstrap v4 Snippets
 * bootstrap snippets vs code
@@ -20,6 +21,7 @@ Extençoes usadas:
 * PHP debug
 * PHP IntelliSense
 * PHP Namespace Resolver
+* PHP Tools for VS Code
 * Prettier - Code Formatter
 * Prettier - JavaScript formatter
 * Prettier-Standard - JavaScript formatter
