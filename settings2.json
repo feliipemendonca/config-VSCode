@@ -23,9 +23,6 @@
     "workbench.sideBar.location": "left",
     "git.autofetch": true,
     "git.confirmSync": false,
-    "yaml.schemas": {
-        "file:///Users/felipemendonca/.vscode/extensions/atlassian.atlascode-2.7.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
-    },
     "editor.codeActionsOnSave": null,
     "workbench.colorTheme": "Material Dark Soda"
 }
