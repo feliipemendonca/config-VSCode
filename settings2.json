@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": -1,
+    "window.zoomLevel": 0,
     "workbench.iconTheme": "vscode-icons",
     "breadcrumbs.enabled": true,
     "editor.fontLigatures": true,
@@ -15,7 +15,6 @@
     "workbench.fontAliasing": "antialiased",
     "prettier.arrowParens": "always",
     "explorer.confirmDelete": false,
-    "workbench.colorTheme": "Material Dark Soda",
     "vsicons.dontShowNewVersionMessage": true,
     "workbench.editor.showTabs": true,
     "workbench.activityBar.visible": true,
@@ -23,5 +22,10 @@
     "editor.renderControlCharacters": true,
     "workbench.sideBar.location": "left",
     "git.autofetch": true,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "yaml.schemas": {
+        "file:///Users/felipemendonca/.vscode/extensions/atlassian.atlascode-2.7.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "editor.codeActionsOnSave": null,
+    "workbench.colorTheme": "Material Dark Soda"
 }
